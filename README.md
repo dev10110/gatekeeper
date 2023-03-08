@@ -13,11 +13,9 @@ Repo containing supplementary materials to our submission:
 
 ## Videos
 
-
 ![Alt Text](src/animation.gif)
 
-Short introductory video: 
-![Alt Text](media/intro_video.mp4)
+Short introductory video: `media/intro_video.mp4`
 
 ## Code
 See the `src` folder
