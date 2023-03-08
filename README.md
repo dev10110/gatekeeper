@@ -4,8 +4,8 @@ Repo containing supplementary materials to our submission:
 ```
 @article{agrawal2023gatekeeper,
    author={Devansh Ramgopal Agrawal and Ruichang Chen and Dimitra Panagou},
-   title={Gatekeeper: Safety Critical Control of Nonlinear Systems\\ with Limited Perception in Unknown and Dynamic Environments},
-   journal={International Conference on Robotics and Automation (under-review)},
+   title={Gatekeeper: Safety Verification and Control for Nonlinear Systems in Unknown and Dynamic Environments},
+   journal={International Conference on Intelligent Robots and Systems (under-review)},
    year=2023
 }
 ```
@@ -13,9 +13,11 @@ Repo containing supplementary materials to our submission:
 
 ## Videos
 
-Short introductory video: https://youtu.be/AjQtCs_6Luc
 
-![Alt Text](media/firewatch.gif)
+![Alt Text](src/animation.gif)
+
+Short introductory video: 
+![Alt Text](media/intro.mp4)
 
 ## Code
 See the `src` folder
