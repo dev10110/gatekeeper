@@ -10,6 +10,7 @@ Repo containing supplementary materials to our submission:
 }
 ```
 
+See the extended version of the paper, with the appendix, at `gatekeeper_extended_version.pdf` in the root directory of this repo. 
 
 ## Videos
 
