@@ -5,7 +5,7 @@ Repo containing supplementary materials to our submission:
 @article{agrawal2023gatekeeper,
    author={Devansh Ramgopal Agrawal and Ruichang Chen and Dimitra Panagou},
    title={Gatekeeper: Safety Verification and Control for Nonlinear Systems in Unknown and Dynamic Environments},
-   journal={International Conference on Intelligent Robots and Systems (under-review)},
+   journal={International Conference on Intelligent Robots and Systems},
    year=2023
 }
 ```
