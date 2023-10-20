@@ -9,10 +9,12 @@ Firewatch Mission:
 ![Alt Text](src/animation.gif)
 
 Algorithm Description: https://youtu.be/epGrOOSIHO8
+
 [![Algorithm Description](https://img.youtube.com/vi/epGrOOSIHO8/0.jpg)](https://youtu.be/epGrOOSIHO8 "Gatekeeper Algorithm")
 
 
 Experiments: https://youtu.be/oFm7btPvaNU
+
 [![Experiments](https://img.youtube.com/vi/oFm7btPvaNU/0.jpg)](https://youtu.be/oFm7btPvaNU "Gatekeeper Experiments")
 
 ## Code
