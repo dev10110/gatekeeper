@@ -8,6 +8,7 @@ A pdf of the paper is uploaded here, and includes the appendix.
 ![Alt Text](src/animation.gif)
 
 Algorithm Description: https://youtu.be/epGrOOSIHO8
+
 Experiments: https://youtu.be/oFm7btPvaNU
 
 ## Code
