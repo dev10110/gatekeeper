@@ -1,25 +1,30 @@
-# gatekeeper
-Repo containing supplementary materials to our submission:
+# `gatekeeper`
+Repo containing supplementary materials to the `gatekeeper` paper. The paper was presented at IROS 2023, and is currently under review at Transactions on Robotics (T-RO). 
 
-```
-@article{agrawal2023gatekeeper,
-   author={Devansh Ramgopal Agrawal and Ruichang Chen and Dimitra Panagou},
-   title={Gatekeeper: Safety Verification and Control for Nonlinear Systems in Unknown and Dynamic Environments},
-   journal={International Conference on Intelligent Robots and Systems (under-review)},
-   year=2023
-}
-```
-
-See the extended version of the paper, with the appendix, at `gatekeeper_extended_version.pdf` in the root directory of this repo. 
+A pdf of the paper is uploaded here, and includes the appendix. 
 
 ## Videos
 
 ![Alt Text](src/animation.gif)
 
-Short introductory video: `media/intro_video.mp4`
+Algorithm Description: https://youtu.be/epGrOOSIHO8
+Experiments: https://youtu.be/oFm7btPvaNU
 
 ## Code
-See the `src` folder
+See the `src` folder for the implementation of the firewatch mission. 
+
+The code for the quadrotor experiments can be found here:
+- Onboard (Xavier NX) code: https://github.com/dev10110/gatekeeper-exp-xavier
+- Groundstation code: https://github.com/dev10110/gatekeeper-exp-groundstation
+
 
 ## Citing
-This paper is still under-review.
+If you found our work useful, please consider citing
+```
+@article{agrawal2023gatekeeper,
+   author={Devansh Ramgopal Agrawal and Ruichang Chen and Dimitra Panagou},
+   title={Gatekeeper: Online Safety Verification and Control for Nonlinear Systems in Dynamic Environments},
+   journal={International Conference on Intelligent Robots and Systems},
+   year=2023
+}
+```
